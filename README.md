@@ -18,4 +18,16 @@
 ### [yes] ? : Y
 ### [yes] ? : Y
 
-### 3! cmd: composer install
+## 3! cmd: composer install
+
+## 4!: composer.json
+
+"autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "engine\\": "engine/"
+        }
+    }
+
+
+### 5! cmd: composer update
