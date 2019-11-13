@@ -7,7 +7,7 @@
 ## 2! cmd: composer init
 ### Package name : skip
 ### Description : skip
-### Author : Slavik Mor <the.mor.ua@gmail.com>
+### Author : Slavik Mor <the.mor@mail.com>
 ### Minimum Stability : skip
 ### Minimum Stability : skip
 ### Package Type : skip
